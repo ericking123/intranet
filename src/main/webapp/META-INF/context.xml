@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/intranet2">
+    <Resource auth="Container" driverClassName="org.postgresql.Driver" 
+              maxActive="10" maxIdle="10" maxWait="40000" name="jdbc/intranet2" 
+              password="postgre" type="javax.sql.DataSource" url="jdbc:postgresql://localhost:5432/intranet_aasana" 
+              username="postgres">
+    </Resource>
+</Context>
